@@ -57,7 +57,8 @@ A modern expense management application for tracking income, expenses, and spend
 
 A complete employee management platform featuring authentication, role-based access, and efficient workforce management.
 
-* **Tailorit** **(https://tailorit.vercel.app/)** — A multi-tenant business management SaaS built for tailors and bespoke workshops.
+* 📏👗 **Tailorit**
+*  **(https://tailorit.vercel.app/)** — A multi-tenant business management SaaS built for tailors and bespoke workshops.
   * 🏢 **Multi-Tenant:** Isolated workspaces with custom workshop branding & colors.
   * 📐 **Smart Measurements:** Reusable client measurement profiles across orders.
   * 📦 **Order Pipeline:** Tracks progress from draft request to final delivery.
