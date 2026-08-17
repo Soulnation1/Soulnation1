@@ -45,7 +45,7 @@ I specialize in developing responsive, high-performance applications with **Reac
 
 ## 📌 Featured Projects
 
-### 🚀 Swing
+### 🚀 Swing(swing.betelic.com)
 
 A collaborative workspace platform where teams can create projects, assign tasks, manage shared resources, and track project progress in real time.
 
@@ -56,6 +56,14 @@ A modern expense management application for tracking income, expenses, and spend
 ### 👥 HR Management System
 
 A complete employee management platform featuring authentication, role-based access, and efficient workforce management.
+
+* **Tailorit** **(https://tailorit.vercel.app/)** — A multi-tenant business management SaaS built for tailors and bespoke workshops.
+  * 🏢 **Multi-Tenant:** Isolated workspaces with custom workshop branding & colors.
+  * 📐 **Smart Measurements:** Reusable client measurement profiles across orders.
+  * 📦 **Order Pipeline:** Tracks progress from draft request to final delivery.
+  * 💳 **Invoicing & Chat:** Integrated customer invoicing, payment tracking, and contextual chat.
+  * ⚡ **Built with:** Next.js, TypeScript, Tailwind CSS, TanStack Query, Radix UI.
+
 
 ## 🎯 What I Enjoy Building
 
